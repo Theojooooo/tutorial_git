@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Hello world Conflict dari Budi
-=======
-# Hello World Conflict dari Surya
+# Hello world Conflict dari Budi dan Surya
 
 ## Test dari Surya
->>>>>>> aae1a6941afe871c8df9033b20ccabaf2fce2533
+
+## Example pull request from staging
